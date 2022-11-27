@@ -1,4 +1,4 @@
-## Financial App Using Django,Rest Framework
+## Plaid App Using Django,Rest Framework
 
 ## clone the repository using
 
